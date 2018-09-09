@@ -1,0 +1,25 @@
+.jumbotron {
+	
+	background-image:url("../img/blake-connally-373084-unsplash.jpg");
+	background-size:cover;
+	color: white;
+	padding-top:15em;
+	padding-bottom:30em;
+	
+}	
+
+
+.jumbotron-1 {
+	
+	background-image:url("../img/earth-11595_1920.jpg");
+	background-size:cover;
+	color: white;
+	padding-top:10em;
+	padding-bottom:10em;
+	
+}	
+
+h1 {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
